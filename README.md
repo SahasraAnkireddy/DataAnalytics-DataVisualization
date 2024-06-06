@@ -1,4 +1,5 @@
-# Accenture North America Data Analytics and Visualization Job Simulation on Forage - September 2023
+# Accenture North America Data Analytics and Visualization Job Simulation on Forage
+
 
 . Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
 
